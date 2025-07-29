@@ -208,6 +208,13 @@ def predict_and_segment(image_path):
 # Test with an image
 predict_and_segment("/content/normal_23.jpg")
 
+
+
+
+
+
+# NEXT BLOCK
+
 from IPython import get_ipython
 from IPython.display import display
 # %%
@@ -455,6 +462,13 @@ def predict_and_segment(image_path):
 
 # Test with an image
 predict_and_segment("/content/drive/MyDrive/dataset/test/glaucoma test/glaucoma_231.jpg")
+
+
+
+
+
+
+# THIS IS FOR ANOTHER IMAGE 
 
 from IPython import get_ipython
 from IPython.display import display
